@@ -1,12 +1,11 @@
 package com.driuft.androidkotlindebugging
 
-import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import com.driuft.androidkotlindebugging.ui.*
-import kotlin.coroutines.coroutineContext
+
 
 class MainActivity : AppCompatActivity() {
 
